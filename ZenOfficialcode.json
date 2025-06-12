@@ -1,3 +1,7 @@
 {
-  "password": "ZenOfficial"
+  "password": "ZenOfficial",
+  "allowed_pairings": [
+    "6285879522174",
+    "628",
+  ]
 }
