@@ -8,7 +8,7 @@ saya menjalankan bisnis digital dan mengembangkan berbagai platform online, teru
 
 ## project
 
-* dashboard: https://dasboard.zenofc.my.id
+* dashboard: https://dashboard.zenofc.my.id
 * website profile: https://www.zenofc.my.id
 
 ## yang saya lakukan
